@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+  url: https://author-p166569-e1781271.adobeaemcloud.com/bin/franklin.delivery/hss-adobe/eds-forms-rnd-project/main
+  type: "markup"
+  suffix: ".html"
