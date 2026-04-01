@@ -1,5 +1,11 @@
 mountpoints:
   /:
+<<<<<<< HEAD
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
+=======
+  url: https://author-p166569-e1781271.adobeaemcloud.com/bin/franklin.delivery/hss-adobe/eds-forms-rnd-project/main
+  type: "markup"
+  suffix: ".html"
+>>>>>>> 705eaa7 (Add mountpoints configuration to fstab.yaml)
